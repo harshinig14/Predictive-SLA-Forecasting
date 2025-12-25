@@ -1,0 +1,6 @@
+
+{
+  "name": "TwinSight: Predictive SLA Digital Twin",
+  "description": "A proactive operational management platform that uses digital twin simulation and Gemini AI to predict SLA breaches and test 'what-if' scenarios in real-time.",
+  "requestFramePermissions": []
+}
